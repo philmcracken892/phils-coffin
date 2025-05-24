@@ -1,0 +1,1 @@
+coffin = { name = 'coffin', label = 'coffin', weight = 1, type = 'item', image = 'coffin.png', unique = false, useable = true, shouldClose = false, description = 'store bodys' },
